@@ -1,0 +1,70 @@
+img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform .2s; 
+}
+
+img:hover {
+    transform: scale(1.2); 
+}
+#tablat{
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#tablal{
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    display: flex;
+    margin-top: 15px;
+    justify-content: center;
+    align-items: center;
+}
+#tablad{
+    font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+h2{
+    color: #C70039;
+    margin: 40px;
+}
+
+h3{
+    color: #E8E8E8;
+}
+
+#index1{
+    color: #5F78AF;
+    background: #E8E8E8;
+
+}
+
+.bi{
+    font-size: 17px
+
+}
+.btn-sm{
+    margin: 15px;
+}
+
+.bi-trash3-fill{
+    font-size: 20px;
+}
+#labCarritoGC{
+    font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: #C7D0EC;
+
+}
